@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-b23a0b23c080df4d29ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CLASEMIERCOLES_7OCTUBRE",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CLASEMIERCOLES_7OCTUBRE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CLASEMIERCOLES_7OCTUBRE-Debug-a6db64a6d20b3186a267.json",
+					"name" : "CLASEMIERCOLES_7OCTUBRE",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mateo-marin-suarez/github/stm32-course-mmarinsu/Progamaci\u00f3n/CLASEMIERCOLES_7OCTUBRE/build/Debug",
+		"source" : "/home/mateo-marin-suarez/github/stm32-course-mmarinsu/Progamaci\u00f3n/CLASEMIERCOLES_7OCTUBRE"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}
