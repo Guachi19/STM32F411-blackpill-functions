@@ -1,0 +1,14 @@
+# CMake build output
+/build/
+/CMakeUserPresets.json
+
+# Firmware artifacts generated outside the build directory
+*.elf
+*.hex
+*.bin
+*.map
+*.su
+
+# Operating system files
+.DS_Store
+Thumbs.db

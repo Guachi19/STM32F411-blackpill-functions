@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compilar",
+      "type": "shell",
+      "command": "cmake --preset Debug && cmake --build --preset Debug",
+      "problemMatcher": ["$gcc"],
+      "group": { "kind": "build", "isDefault": true }
+    },
+    {
+      "label": "Compilar y subir",
+      "type": "shell",
+      "dependsOn": "Compilar",
+      "command": "openocd -f interface/stlink.cfg -f target/stm32f4x.cfg -c \"program build/Debug-make/firmware.elf verify reset exit\"",
+      "problemMatcher": []
+    }
+  ]
+}
