@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug",
+  "command": "/home/julianbaez/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F411xE -I/home/julianbaez/github/stm32-course-jbaezc/nucleo/Inc -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Core/Include -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles/nucleo.dir/Src/syscall.c.obj -c /home/julianbaez/github/stm32-course-jbaezc/nucleo/Src/syscall.c",
+  "file": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/Src/syscall.c",
+  "output": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug/CMakeFiles/nucleo.dir/Src/syscall.c.obj"
+},
+{
+  "directory": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug",
+  "command": "/home/julianbaez/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F411xE -I/home/julianbaez/github/stm32-course-jbaezc/nucleo/Inc -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Core/Include -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles/nucleo.dir/Src/sysmem.c.obj -c /home/julianbaez/github/stm32-course-jbaezc/nucleo/Src/sysmem.c",
+  "file": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/Src/sysmem.c",
+  "output": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug/CMakeFiles/nucleo.dir/Src/sysmem.c.obj"
+},
+{
+  "directory": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug",
+  "command": "/home/julianbaez/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F411xE -I/home/julianbaez/github/stm32-course-jbaezc/nucleo/Inc -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Core/Include -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles/nucleo.dir/Src/main.c.obj -c /home/julianbaez/github/stm32-course-jbaezc/nucleo/Src/main.c",
+  "file": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/Src/main.c",
+  "output": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug/CMakeFiles/nucleo.dir/Src/main.c.obj"
+},
+{
+  "directory": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug",
+  "command": "/home/julianbaez/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F411xE -I/home/julianbaez/github/stm32-course-jbaezc/nucleo/Inc -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Core/Include -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -x assembler-with-cpp -MMD -MP -o CMakeFiles/nucleo.dir/Src/startup_stm32f411xx.S.obj -c /home/julianbaez/github/stm32-course-jbaezc/nucleo/Src/startup_stm32f411xx.S",
+  "file": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/Src/startup_stm32f411xx.S",
+  "output": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug/CMakeFiles/nucleo.dir/Src/startup_stm32f411xx.S.obj"
+},
+{
+  "directory": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug",
+  "command": "/home/julianbaez/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F411xE -I/home/julianbaez/github/stm32-course-jbaezc/nucleo/Inc -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Core/Include -I/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles/nucleo.dir/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c.obj -c /home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c",
+  "file": "/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c",
+  "output": "/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug/CMakeFiles/nucleo.dir/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c.obj"
+}
+]

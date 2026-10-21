@@ -1,0 +1,3 @@
+/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug/CMakeFiles/nucleo.dir
+/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug/CMakeFiles/edit_cache.dir
+/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug/CMakeFiles/rebuild_cache.dir

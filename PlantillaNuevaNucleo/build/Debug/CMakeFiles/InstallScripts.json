@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/julianbaez/github/stm32-course-jbaezc/nucleo/build/Debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

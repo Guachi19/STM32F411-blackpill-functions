@@ -6,10 +6,13 @@
       "type": "cortex-debug",
       "request": "launch",
       "servertype": "openocd",
+      "gdbPath": "gdb-multiarch",
+      "objdumpPath": "/usr/bin/arm-none-eabi-objdump",
+      "nmPath": "/usr/bin/arm-none-eabi-nm",
       "cwd": "${workspaceFolder}",
       "executable": "${workspaceFolder}/build/Debug-make/firmware.elf",
       "configFiles": ["interface/stlink.cfg", "target/stm32f4x.cfg"],
-      "runToEntryPoint": "main",
+      "postLaunchCommands": ["continue"],
       "preLaunchTask": "Compilar"
     }
   ]

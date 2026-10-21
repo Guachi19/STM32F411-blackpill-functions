@@ -1,0 +1,7 @@
+# ninja log v7
+4	84	1792447909200048215	CMakeFiles/nucleo.dir/Src/startup_stm32f411xx.S.obj	8fbcae7aee579daa
+2	175	1792447909197331599	CMakeFiles/nucleo.dir/Src/sysmem.c.obj	1f8e1936a89ba19d
+1	196	1792447909196331612	CMakeFiles/nucleo.dir/Src/syscall.c.obj	88fd9d142c65df52
+3	266	1792447909199108571	CMakeFiles/nucleo.dir/Src/main.c.obj	e0845076f9f00dd6
+5	266	1792447909201027041	CMakeFiles/nucleo.dir/home/julianbaez/STM32Cube/Repository/stm32cube_fw_f4_v1283/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c.obj	a3cad9e8fab95b95
+266	353	1792447909461794191	nucleo.elf	550111ca7887afe9
